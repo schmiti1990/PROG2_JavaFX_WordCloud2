@@ -36,8 +36,6 @@ public class MainWindowController implements Initializable {
     @FXML
     void leerenTextEingabe(ActionEvent event) {
         textHistory.clear();
-
-
     }
 
     @Override
